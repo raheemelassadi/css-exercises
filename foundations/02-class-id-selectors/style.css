@@ -1,0 +1,26 @@
+body {
+    font-family: 'Verdana', sans-serif;
+}
+
+p {
+
+}
+
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: greenyellow;
+}
+
+.org2 {
+    font-size: 24px;
+}
+
+.org:nth-child(odd) {
+    background-color: rgb(209, 123, 145);
+}
+
+
